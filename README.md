@@ -1,4 +1,4 @@
-x🚀 JavaScript To-Do List App 🚀
+🚀 JavaScript To-Do List App 🚀
 
 🌟 Overview
 This Productivity App is designed to help users manage their tasks efficiently. Users can categorize their tasks, mark them as complete, and delete tasks they no longer need. The app features a simple and intuitive interface built with HTML, CSS, and JavaScript.
